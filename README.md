@@ -1,2 +1,2 @@
 # r.tester-scripts
-R.tester scripts for writing data with jumps for overload cache for SMD hard disks.
+R.tester CERT task files for writing data with jumps for overload cache for SMD hard disks.
